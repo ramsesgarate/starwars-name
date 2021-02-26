@@ -1,0 +1,27 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Get random Star Wars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramsesgarate/starwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "'Ramses <'hello@ramsesgarate.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramsesgarate/starwars-name/issues"
+  },
+  "homepage": "https://github.com/ramsesgarate/starwars-name#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
