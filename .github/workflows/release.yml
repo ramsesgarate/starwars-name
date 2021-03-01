@@ -1,11 +1,8 @@
-name: Release
+name: Release Package
 on:
   push:
     branches:
       - main
-      - next
-      - beta
-      - "*.x" # maintenance releases branches
 
 jobs:
   release:
